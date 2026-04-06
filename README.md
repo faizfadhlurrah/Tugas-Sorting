@@ -9,4 +9,4 @@ Tugas praktikum struktur data menggunakan bahasa Python dan C++.
 * Merge Sort
 
 ## Tampilan Demo Aplikasi:
-![Demo](NAMA_FILE_FOTO_KAMU.png)
+![Demo](demo.png)
